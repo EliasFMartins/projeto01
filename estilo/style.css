@@ -106,6 +106,7 @@ main p{
     margin: 15px 0px;/*cria margem  o primeiro px e  encima e  embaixo o segundo e direita e esquerda*/
     text-align: justify;
     text-indent: 30px;/*aquele pequeno espaço no inicio do paragrafo!*/
+    line-height: 1em;
 }
 main img{
     width: 100%;
